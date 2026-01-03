@@ -26,7 +26,7 @@ Credits and references used in this README:
 
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,flask,py,java,linux,bash,cpp,js,php,html,css,bootstrap,laravel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,py,java,linux,cpp,js,php,html,css,bootstrap,laravel&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (MySQL, Postgres), Networking & Security (VPC, IAM).
 
