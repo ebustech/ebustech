@@ -2,7 +2,7 @@
 
 👀 I’m interested in TECH WORLD.
 
-🌱 I’m currently learning Network Security & Data Analytics.
+🌱 I’m currently learning Network Security.
 
 💞️ My main tech stack is Python, SQL, C++, Java, JS, PHP, HTML, CSS, and Shell Script. But mostly use Python & SQL.
 
