@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m @billzIT
 
-<!--
-**ebustech/ebustech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in TECH WORLD.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Network Security & Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ My main tech stack is Python, SQL, C++, Java, JS, PHP, HTML, CSS, and Shell Script. But mostly use Python & SQL.
+
+
+Fun Facts:
+
+• I am a dog lover
+
+• I don't like coffee or tea
+
+• Hobbies: anime, gym, building things & Problem solving.
